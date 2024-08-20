@@ -708,13 +708,13 @@ h6 {
 # Pricing Section
 --------------------------------------------------------------*/
 .gallery {
-  margin-top: 40px;
+  margin: 40px 40px;
 }
 
 .gallery .gallery-item {
   position: relative;
   overflow: hidden;
-  border-radius: 10px;
+  /* border-radius: 5%; */
 }
 
 .gallery .gallery-item img {
